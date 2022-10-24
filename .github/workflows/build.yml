@@ -56,6 +56,8 @@ jobs:
 
       - name: Build & export the app
         run: pnpm run export
+        env:
+          NEXT_PUBLIC_SITE_URL: ${{ secrets.NEXT_PUBLIC_SITE_URL  }}
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
