@@ -61,7 +61,7 @@ const Home: NextPage = () => {
           </div>
         </div>
 
-        <div className="relative pt-6 pb-16 sm:pb-24">
+        <div className="relative pt-6">
           <Header />
 
           <Content />

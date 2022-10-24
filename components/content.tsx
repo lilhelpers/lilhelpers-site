@@ -1,3 +1,5 @@
+import People from "./people";
+
 export default function Content() {
   return (
     <main className="mt-16 mx-auto max-w-7xl px-4 sm:mt-24">
@@ -13,6 +15,10 @@ export default function Content() {
         <div className="mt-5 max-w-md mx-auto sm:flex sm:justify-center md:mt-8">
         </div>
       </div>
+
+      <section>
+        <People />
+      </section>
     </main>
   )
 }
