@@ -8,8 +8,8 @@ const Home: NextPage = () => {
   return (
     <>
       <Head>
-        <title>Lil Nouns</title>
-        <meta name="description" content="" />
+        <title>Lil Helpers</title>
+        <meta name="description" content="Experienced builders and community members that volunteer to facilitate new members onboarding." />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
