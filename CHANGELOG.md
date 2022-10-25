@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.0-alpha.3] - 2022-10-25
+
+### <!-- 05 -->Documentation
+
+- Update website title and description
+
+## [1.0.0-alpha.2] - 2022-10-24
+
+### <!-- 05 -->Documentation
+
+- Add `sq` and `britt` to the people
+
 ## [1.0.0-alpha.1] - 2022-10-24
 
 ### <!-- 01 -->Features
