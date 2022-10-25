@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.0-alpha.4] - 2022-10-25
+
+### <!-- 02 -->Bug Fixes
+
+- Update copy right message
+
 ## [1.0.0-alpha.3] - 2022-10-25
 
 ### <!-- 05 -->Documentation
