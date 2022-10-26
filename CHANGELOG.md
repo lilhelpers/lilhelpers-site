@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.0-alpha.6] - 2022-10-26
+
+### <!-- 05 -->Documentation
+
+- Update `sq` information over people component
+
+### <!-- 07 -->Continuous Integrations
+
+- Add node version `19` to the `build` workflow
+
 ## [1.0.0-alpha.5] - 2022-10-25
 
 ### <!-- 08 -->Miscellaneous Tasks
