@@ -2,15 +2,36 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.0-alpha.7] - 2022-10-27
+
+### <!-- 02 -->Bug Fixes
+
+- Update background color and enable footer component
+
+### <!-- 05 -->Documentation
+
+- Add `mikegood` information to the people
+- Add addresses to information for the people
+- Add `craig` information to the people
+- Improve people list over people componnent
+
 ## [1.0.0-alpha.6] - 2022-10-26
 
 ### <!-- 05 -->Documentation
 
 - Update `sq` information over people component
+- Update `sq` information over people component
 
 ### <!-- 07 -->Continuous Integrations
 
 - Add node version `19` to the `build` workflow
+
+### <!-- 08 -->Miscellaneous Tasks
+
+- Bump @types/node from 18.11.5 to 18.11.6
+- Bump next from 12.3.1 to 13.0.0
+- Bump @types/react from 18.0.22 to 18.0.23
+- Bump eslint-config-next from 12.3.1 to 13.0.0
 
 ## [1.0.0-alpha.5] - 2022-10-25
 
