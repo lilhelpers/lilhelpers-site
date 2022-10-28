@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.0-alpha.8] - 2022-10-28
+
+### <!-- 02 -->Bug Fixes
+
+- Solve some extra spacing issues over people component
+
+### <!-- 05 -->Documentation
+
+- Update `mikegood` information to the people
+- Update `brittzbits` information to the people
+
+### <!-- 08 -->Miscellaneous Tasks
+
+- Update `pnpm` lockfile state
+
 ## [1.0.0-alpha.7] - 2022-10-27
 
 ### <!-- 02 -->Bug Fixes
