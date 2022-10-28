@@ -61,7 +61,7 @@ const people = [
 export default function People() {
   return (
     <div className="bg-white">
-      <div className="mx-auto py-12 px-4 max-w-7xl sm:px-6 lg:px-8 lg:py-24">
+      <div className="mx-auto py-12 px-4 max-w-7xl sm:px-6 lg:px-8 lg:py-12 shadow sm:rounded-lg sm:mb-12">
         <div className="space-y-12">
           <ul
             role="list"
