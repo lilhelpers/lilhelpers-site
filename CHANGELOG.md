@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.0-alpha.9] - 2022-10-28
+
+### <!-- 05 -->Documentation
+
+- Add `dasher` information to the people
+
 ## [1.0.0-alpha.8] - 2022-10-28
 
 ### <!-- 02 -->Bug Fixes
