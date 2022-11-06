@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.0-alpha.10] - 2022-11-06
+
+### <!-- 07 -->Continuous Integrations
+
+- Add the `pnpm` workflow to update lock file
+
+### <!-- 08 -->Miscellaneous Tasks
+
+- Bump @types/react from 18.0.23 to 18.0.24
+- Bump @types/react-dom from 18.0.7 to 18.0.8 ([#32](https://github.com/orhun/git-cliff/issues/32))
+- Bump @types/node from 18.11.6 to 18.11.9 ([#33](https://github.com/orhun/git-cliff/issues/33))
+- Bump next from 13.0.0 to 13.0.2 ([#36](https://github.com/orhun/git-cliff/issues/36))
+- Bump eslint-config-next from 13.0.0 to 13.0.2 ([#37](https://github.com/orhun/git-cliff/issues/37))
+
 ## [1.0.0-alpha.9] - 2022-10-28
 
 ### <!-- 05 -->Documentation
