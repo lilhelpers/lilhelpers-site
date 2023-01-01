@@ -2,7 +2,33 @@
 
 All notable changes to this project will be documented in this file.
 
-## [1.0.0] - 2022-12-15
+## [1.0.1] - 2023-01-01
+
+### <!-- 05 -->Documentation
+
+- Replace `yarn` by `pnpm` on project readme
+- Add some status badges to the readme file
+- Improve readme file description
+
+### <!-- 07 -->Continuous Integrations
+
+- Solve an issue on `pnpm` workflow triggers
+- Bump actions/cache from 3.0.11 to 3.2.0 ([#62](https://github.com/orhun/git-cliff/issues/62))
+- Bump actions/cache from 3.2.0 to 3.2.1 ([#63](https://github.com/orhun/git-cliff/issues/63))
+- Bump actions/cache from 3.2.1 to 3.2.2 ([#69](https://github.com/orhun/git-cliff/issues/69))
+- Setup stale bot to closes abandoned issues
+
+### <!-- 08 -->Miscellaneous Tasks
+
+- Bump @types/node from 18.11.15 to 18.11.17 ([#60](https://github.com/orhun/git-cliff/issues/60))
+- Bump eslint from 8.29.0 to 8.30.0 ([#61](https://github.com/orhun/git-cliff/issues/61))
+- Bump @types/react-dom from 18.0.9 to 18.0.10 ([#64](https://github.com/orhun/git-cliff/issues/64))
+- Bump next from 13.0.7 to 13.1.0 ([#65](https://github.com/orhun/git-cliff/issues/65))
+- Bump eslint-config-next from 13.0.7 to 13.1.1 ([#67](https://github.com/orhun/git-cliff/issues/67))
+- Bump @types/node from 18.11.17 to 18.11.18 ([#70](https://github.com/orhun/git-cliff/issues/70))
+- Bump next from 13.1.0 to 13.1.1 ([#68](https://github.com/orhun/git-cliff/issues/68))
+
+## [1.0.0] - 2022-12-20
 
 ### <!-- 07 -->Continuous Integrations
 
