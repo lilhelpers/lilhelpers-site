@@ -1,3 +1,10 @@
+# Lil Nouns
+
+[![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/lilhelpers/lilhelpers-site?include_prereleases)](https://github.com/lilhelpers/lilhelpers-site/releases)
+[![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/lilhelpers/lilhelpers-site/build.yml)](https://github.com/lilhelpers/lilhelpers-site/actions/workflows/build.yml)
+[![GitHub](https://img.shields.io/github/license/lilhelpers/lilhelpers-site)](https://github.com/lilhelpers/lilhelpers-site/blob/master/LICENSE)
+[![Twitter Follow](https://img.shields.io/twitter/follow/nekofar?style=flat)](https://twitter.com/nekofar)
+
 ## Getting Started
 
 First, run the development server:
