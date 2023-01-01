@@ -1,4 +1,4 @@
-# Lil Nouns
+# Lil Nouns Helpers
 
 [![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/lilhelpers/lilhelpers-site?include_prereleases)](https://github.com/lilhelpers/lilhelpers-site/releases)
 [![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/lilhelpers/lilhelpers-site/build.yml)](https://github.com/lilhelpers/lilhelpers-site/actions/workflows/build.yml)
