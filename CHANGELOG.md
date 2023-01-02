@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.2] - 2023-01-02
+
+### <!-- 05 -->Documentation
+
+- Update readme file title
+
+### <!-- 08 -->Miscellaneous Tasks
+
+- Add a link to the github repository to the header
+
 ## [1.0.1] - 2023-01-01
 
 ### <!-- 05 -->Documentation
