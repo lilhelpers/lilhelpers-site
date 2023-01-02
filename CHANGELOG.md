@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.3] - 2023-01-02
+
+### <!-- 05 -->Documentation
+
+- Change project license to `APLv2`
+
+### <!-- 07 -->Continuous Integrations
+
+- Add a new `release` workflow to create releases
+
+### <!-- 08 -->Miscellaneous Tasks
+
+- Bump eslint from 8.30.0 to 8.31.0 ([#71](https://github.com/orhun/git-cliff/issues/71))
+
 ## [1.0.2] - 2023-01-02
 
 ### <!-- 05 -->Documentation
