@@ -2,6 +2,26 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.5] - 2023-01-22
+
+### <!-- 05 -->Documentation
+
+- Add issue templates for bug report and feature requests
+
+### <!-- 07 -->Continuous Integrations
+
+- Bump orhun/git-cliff-action from 2.0.2 to 2.0.3 
+- Change `open-pull-requests-limit` from 10 to 20
+
+### <!-- 08 -->Miscellaneous Tasks
+
+- Bump eslint-config-next from 13.1.1 to 13.1.2 
+- Bump next from 13.1.1 to 13.1.2 
+- Specifiy node version of cloudflare pages
+- Bump eslint from 8.31.0 to 8.32.0 
+- Bump eslint-config-next from 13.1.2 to 13.1.3 
+- Bump @types/react from 18.0.26 to 18.0.27 
+
 ## [1.0.4] - 2023-01-11
 
 ### <!-- 07 -->Continuous Integrations
