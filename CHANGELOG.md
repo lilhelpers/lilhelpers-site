@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.6] - 2023-01-25
+
+### <!-- 05 -->Documentation
+
+- Add basic guidelines to contributing to the repository
+
+### <!-- 08 -->Miscellaneous Tasks
+
+- Bump next from 13.1.2 to 13.1.4 
+- Bump next from 13.1.4 to 13.1.5 
+- Bump eslint-config-next from 13.1.3 to 13.1.4 
+
 ## [1.0.5] - 2023-01-22
 
 ### <!-- 05 -->Documentation
