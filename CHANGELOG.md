@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.7] - 2023-02-05
+
+### <!-- 07 -->Continuous Integrations
+
+- Bump actions/cache from 3.2.3 to 3.2.4 
+
+### <!-- 08 -->Miscellaneous Tasks
+
+- Bump eslint from 8.32.0 to 8.33.0 
+- Bump next from 13.1.5 to 13.1.6 
+- Bump typescript from 4.9.4 to 4.9.5 
+- Bump eslint-config-next from 13.1.4 to 13.1.6 
+
 ## [1.0.6] - 2023-01-25
 
 ### <!-- 05 -->Documentation
