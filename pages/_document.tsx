@@ -9,9 +9,9 @@ class MyDocument extends Document {
   render() {
     // noinspection HtmlRequiredTitleElement
     return (
-      <Html>
+      <Html className="h-full bg-gray-50 antialiased" lang="en">
         <Head/>
-        <body className="bg-gray-50">
+        <body className="flex h-full flex-col">
         <Main/>
         <NextScript/>
         </body>
