@@ -13,7 +13,7 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <div className="relative bg-gray-50 overflow-hidden">
+      <main className="relative bg-gray-50 overflow-hidden">
         <div className="hidden sm:block sm:absolute sm:inset-y-0 sm:h-full sm:w-full" aria-hidden="true">
           <div className="relative h-full max-w-7xl mx-auto">
             <svg
@@ -68,7 +68,7 @@ const Home: NextPage = () => {
 
           <Footer />
         </div>
-      </div>
+      </main>
     </>
   );
 };
