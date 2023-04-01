@@ -9,15 +9,9 @@ class MyDocument extends Document {
   render() {
     // noinspection HtmlRequiredTitleElement
     return (
-      <Html>
-        <Head>
-          <link rel="preconnect" href="https://fonts.gstatic.com"/>
-          <link
-            rel="stylesheet"
-            href="https://fonts.googleapis.com/css2?family=Londrina+Solid:wght@100;300;400;900&display=swap"
-          />
-        </Head>
-        <body className="bg-gray-50">
+      <Html className="h-full bg-gray-50 antialiased" lang="en">
+        <Head/>
+        <body className="flex h-full flex-col">
         <Main/>
         <NextScript/>
         </body>

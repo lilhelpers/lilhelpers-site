@@ -2,6 +2,38 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.8] - 2023-04-01
+
+### <!-- 04 -->Refactor
+
+- Improve styles through document
+- Replace import alias on relative import paths
+
+### <!-- 05 -->Documentation
+
+- Update twitter badge due to depreciation
+
+### <!-- 07 -->Continuous Integrations
+
+- Bump orhun/git-cliff-action from 2.0.3 to 2.0.5 
+- Bump actions/checkout from 3.3.0 to 3.5.0 
+- Bump actions/cache from 3.2.4 to 3.3.1 
+
+### <!-- 08 -->Miscellaneous Tasks
+
+- Bump @types/node from 18.11.18 to 18.11.19 
+- Bump @types/node from 18.11.19 to 18.13.0 
+- Add `@next/font` to dependencies
+- Add `clsx` to dependencies
+- Bump typescript from 4.9.5 to 5.0.2 
+- Bump next-sitemap from 3.1.55 to 4.0.1 
+- Bump @types/node from 18.13.0 to 18.14.0 
+- Bump @types/react-dom from 18.0.10 to 18.0.11 
+- Bump eslint from 8.33.0 to 8.37.0 
+- Bump typescript from 5.0.2 to 5.0.3 
+- Bump eslint-config-next from 13.1.6 to 13.2.4 
+- Bump @types/react from 18.0.27 to 18.0.31 
+
 ## [1.0.7] - 2023-02-05
 
 ### <!-- 07 -->Continuous Integrations
