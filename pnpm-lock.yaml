@@ -5,7 +5,7 @@ specifiers:
   '@heroicons/react': ^2.0.12
   '@next/font': ^13.1.6
   '@tailwindcss/aspect-ratio': ^0.4.2
-  '@types/node': 18.14.0
+  '@types/node': 18.15.11
   '@types/react': 18.0.31
   '@types/react-dom': 18.0.11
   autoprefixer: ^10.4.9
@@ -38,7 +38,7 @@ dependencies:
   tailwindcss: 3.1.8_postcss@8.4.16
 
 devDependencies:
-  '@types/node': 18.14.0
+  '@types/node': 18.15.11
   '@types/react': 18.0.31
   '@types/react-dom': 18.0.11
   eslint: 8.37.0
@@ -515,8 +515,8 @@ packages:
     resolution: {integrity: sha512-dRLjCWHYg4oaA77cxO64oO+7JwCwnIzkZPdrrC71jQmQtlhM556pwKo5bUzqvZndkVbeFLIIi+9TC40JNF5hNQ==}
     dev: true
 
-  /@types/node/18.14.0:
-    resolution: {integrity: sha512-5EWrvLmglK+imbCJY0+INViFWUHg1AHel1sq4ZVSfdcNqGy9Edv3UB9IIzzg+xPaUcAgZYcfVs2fBcwDeZzU0A==}
+  /@types/node/18.15.11:
+    resolution: {integrity: sha512-E5Kwq2n4SbMzQOn6wnmBjuK9ouqlURrcZDVfbo9ftDDTFt3nk7ZKK4GMOzoYgnpQJKcxwQw+lGaBvvlMo0qN/Q==}
     dev: true
 
   /@types/prop-types/15.7.5:
