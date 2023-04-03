@@ -13,7 +13,7 @@ specifiers:
   eslint: 8.37.0
   eslint-config-next: 13.2.4
   next: 13.2.4
-  next-seo: ^5.5.0
+  next-seo: ^6.0.0
   next-sitemap: ^4.0.1
   postcss: ^8.4.16
   react: 18.2.0
@@ -30,7 +30,7 @@ dependencies:
   autoprefixer: 10.4.9_postcss@8.4.16
   clsx: 1.2.1
   next: 13.2.4_biqbaboplfbrettd7655fr4n2y
-  next-seo: 5.5.0_ld2jel3hspngo3u5lti2kgl2sq
+  next-seo: 6.0.0_ld2jel3hspngo3u5lti2kgl2sq
   next-sitemap: 4.0.1_jccvrrmb7rb3yyi3af3znueaea
   postcss: 8.4.16
   react: 18.2.0
@@ -2123,8 +2123,8 @@ packages:
     resolution: {integrity: sha512-OWND8ei3VtNC9h7V60qff3SVobHr996CTwgxubgyQYEpg290h9J0buyECNNJexkFm5sOajh5G116RYA1c8ZMSw==}
     dev: true
 
-  /next-seo/5.5.0_ld2jel3hspngo3u5lti2kgl2sq:
-    resolution: {integrity: sha512-5ouBHFtx8YrSDW44lj0qIEQ+oMcz6stgoITB+SqHUZbhgizoJsyLmq73gJ0lxtEKpcN8vG2QgRIJfdb8OAPChw==}
+  /next-seo/6.0.0_ld2jel3hspngo3u5lti2kgl2sq:
+    resolution: {integrity: sha512-jKKt1p1z4otMA28AyeoAONixVjdYmgFCWwpEFtu+DwRHQDllVX3RjtyXbuCQiUZEfQ9rFPBpAI90vDeLZlMBdg==}
     peerDependencies:
       next: ^8.1.1-canary.54 || >=9.0.0
       react: '>=16.0.0'
