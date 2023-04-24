@@ -2,6 +2,30 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.9] - 2023-04-24
+
+### <!-- 07 -->Continuous Integrations
+
+- Bump actions/checkout from 3.5.0 to 3.5.2 
+- Bump `pnpm` version from 7 to 8 on `pnpm` workflow
+
+### <!-- 08 -->Miscellaneous Tasks
+
+- Bump next from 13.1.6 to 13.2.4 
+- Bump @types/node from 18.13.0 to 18.15.11 
+- Bump @types/react from 18.0.31 to 18.0.32 
+- Bump next-seo from 5.15.0 to 6.0.0 
+- Bump @types/react from 18.0.32 to 18.0.33 
+- Bump eslint-config-next from 13.2.4 to 13.3.0 
+- Bump next from 13.2.4 to 13.3.0 
+- Bump @types/react from 18.0.33 to 18.0.34 
+- Bump typescript from 5.0.3 to 5.0.4 
+- Bump @types/react from 18.0.34 to 18.0.35 
+- Bump eslint from 8.37.0 to 8.38.0 
+- Bump @types/react from 18.0.35 to 18.0.37 
+- Bump @types/node from 18.15.11 to 18.15.12 
+- Bump @types/node from 18.15.12 to 18.15.13 
+
 ## [1.0.8] - 2023-04-01
 
 ### <!-- 04 -->Refactor
