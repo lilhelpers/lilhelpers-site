@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.10] - 2023-04-24
+
+### <!-- 02 -->Bug Fixes
+
+- Solve some minor issues and update dependencies
+
 ## [1.0.9] - 2023-04-24
 
 ### <!-- 07 -->Continuous Integrations
