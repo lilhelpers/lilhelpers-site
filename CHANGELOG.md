@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.11] - 2023-04-26
+
+### <!-- 05 -->Documentation
+
+- Migrate to new github issue templates
+
+### <!-- 08 -->Miscellaneous Tasks
+
+- Bump eslint from 8.38.0 to 8.39.0 
+- Bump next from 13.3.0 to 13.3.1 
+- Bump eslint-config-next from 13.3.0 to 13.3.1 
+- Bump @types/node from 18.15.13 to 18.16.0 
+- Bump @types/react from 18.0.37 to 18.0.38 
+
 ## [1.0.10] - 2023-04-24
 
 ### <!-- 02 -->Bug Fixes
