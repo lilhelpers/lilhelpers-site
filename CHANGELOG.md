@@ -2,6 +2,29 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.12] - 2023-05-10
+
+### <!-- 07 -->Continuous Integrations
+
+- Bump orhun/git-cliff-action from 2.0.5 to 2.0.6 
+- Change `open-pull-requests-limit` from 10 to 20
+- Add node version 20 on `build` workflow
+
+### <!-- 08 -->Miscellaneous Tasks
+
+- Bump @types/react-dom from 18.0.11 to 18.2.0 
+- Bump @types/react from 18.0.38 to 18.2.0 
+- Bump @types/react from 18.2.0 to 18.2.5 
+- Bump next from 13.3.1 to 13.3.2 
+- Bump eslint-config-next from 13.3.1 to 13.3.2 
+- Bump next from 13.3.2 to 13.3.4 
+- Bump @types/node from 18.16.0 to 20.1.0 
+- Bump @types/react from 18.2.5 to 18.2.6 
+- Bump @types/react-dom from 18.2.0 to 18.2.4 
+- Bump eslint from 8.39.0 to 8.40.0 
+- Bump eslint-config-next from 13.3.2 to 13.4.1 
+- Bump @types/node from 20.1.0 to 20.1.1 
+
 ## [1.0.11] - 2023-04-26
 
 ### <!-- 05 -->Documentation
