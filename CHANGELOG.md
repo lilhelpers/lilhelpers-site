@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.13] - 2023-05-18
+
+### <!-- 08 -->Miscellaneous Tasks
+
+- Bump @types/node from 20.1.1 to 20.1.2 
+- Bump eslint-config-next from 13.4.1 to 13.4.2 
+- Bump next from 13.3.4 to 13.4.1 
+- Bump next from 13.4.1 to 13.4.2 
+- Bump @types/node from 20.1.2 to 20.1.3 
+- Bump @types/node from 20.1.3 to 20.1.4 
+- Bump @types/node from 20.1.4 to 20.1.5 
+- Bump wrangler from 2.20.0 to 3.0.0 
+- Bump @types/node from 20.1.5 to 20.1.7 
+
 ## [1.0.12] - 2023-05-10
 
 ### <!-- 07 -->Continuous Integrations
