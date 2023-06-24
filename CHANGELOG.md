@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.16] - 2023-06-24
+
+### <!-- 07 -->Continuous Integrations
+
+- Bump actions/checkout from 3.5.2 to 3.5.3 
+- Switch `package-ecosystem` from `npm` to `pnpm` for Dependabot
+
+### <!-- 08 -->Miscellaneous Tasks
+
+- Update `pnpm` lockfile state
+
 ## [1.0.15] - 2023-06-10
 
 ### <!-- 08 -->Miscellaneous Tasks
