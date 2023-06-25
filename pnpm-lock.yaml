@@ -14,8 +14,8 @@ dependencies:
     specifier: ^0.4.2
     version: 0.4.2(tailwindcss@3.3.2)
   autoprefixer:
-    specifier: ^10.4.9
-    version: 10.4.9(postcss@8.4.24)
+    specifier: ^10.4.14
+    version: 10.4.14(postcss@8.4.24)
   clsx:
     specifier: ^1.2.1
     version: 1.2.1
@@ -823,8 +823,8 @@ packages:
     resolution: {integrity: sha512-eBvWn1lvIApYMhzQMsu9ciLfkBY499mFZlNqG+/9WR7PVlroQw0vG30cOQQbaKz3sCEc44TAOu2ykzqXSNnwag==}
     dev: true
 
-  /autoprefixer@10.4.9(postcss@8.4.24):
-    resolution: {integrity: sha512-Uu67eduPEmOeA0vyJby5ghu1AAELCCNSsLAjK+lz6kYzNM5sqnBO36MqfsjhPjQF/BaJM5U/UuFYyl7PavY/wQ==}
+  /autoprefixer@10.4.14(postcss@8.4.24):
+    resolution: {integrity: sha512-FQzyfOsTlwVzjHxKEqRIAdJx9niO6VCBCoEwax/VLSoQF29ggECcPuBqUMZ+u8jCZOPSy8b8/8KnuFbp0SaFZQ==}
     engines: {node: ^10 || ^12 || >=14}
     hasBin: true
     peerDependencies:
