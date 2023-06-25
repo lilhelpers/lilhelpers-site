@@ -15,7 +15,7 @@ dependencies:
     version: 0.4.2(tailwindcss@3.3.2)
   autoprefixer:
     specifier: ^10.4.9
-    version: 10.4.9(postcss@8.4.16)
+    version: 10.4.9(postcss@8.4.24)
   clsx:
     specifier: ^1.2.1
     version: 1.2.1
@@ -29,8 +29,8 @@ dependencies:
     specifier: ^4.1.3
     version: 4.1.3(@next/env@13.4.7)(next@13.4.7)
   postcss:
-    specifier: ^8.4.16
-    version: 8.4.16
+    specifier: ^8.4.24
+    version: 8.4.24
   react:
     specifier: 18.2.0
     version: 18.2.0
@@ -822,7 +822,7 @@ packages:
     resolution: {integrity: sha512-eBvWn1lvIApYMhzQMsu9ciLfkBY499mFZlNqG+/9WR7PVlroQw0vG30cOQQbaKz3sCEc44TAOu2ykzqXSNnwag==}
     dev: true
 
-  /autoprefixer@10.4.9(postcss@8.4.16):
+  /autoprefixer@10.4.9(postcss@8.4.24):
     resolution: {integrity: sha512-Uu67eduPEmOeA0vyJby5ghu1AAELCCNSsLAjK+lz6kYzNM5sqnBO36MqfsjhPjQF/BaJM5U/UuFYyl7PavY/wQ==}
     engines: {node: ^10 || ^12 || >=14}
     hasBin: true
@@ -834,7 +834,7 @@ packages:
       fraction.js: 4.2.0
       normalize-range: 0.1.2
       picocolors: 1.0.0
-      postcss: 8.4.16
+      postcss: 8.4.24
       postcss-value-parser: 4.2.0
     dev: false
 
@@ -2670,15 +2670,6 @@ packages:
 
   /postcss@8.4.14:
     resolution: {integrity: sha512-E398TUmfAYFPBSdzgeieK2Y1+1cpdxJx8yXbK/m57nRhKSmk1GB2tO4lbLBtlkfPQTDKfe4Xqv1ASWPpayPEig==}
-    engines: {node: ^10 || ^12 || >=14}
-    dependencies:
-      nanoid: 3.3.6
-      picocolors: 1.0.0
-      source-map-js: 1.0.2
-    dev: false
-
-  /postcss@8.4.16:
-    resolution: {integrity: sha512-ipHE1XBvKzm5xI7hiHCZJCSugxvsdq2mPnsq5+UF+VHCjiBvtDrlxJfMBToWaP9D5XlgNmcFGqoHmUn0EYEaRQ==}
     engines: {node: ^10 || ^12 || >=14}
     dependencies:
       nanoid: 3.3.6
