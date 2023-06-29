@@ -2,6 +2,36 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.17] - 2023-06-29
+
+### <!-- 05 -->Documentation
+
+- Add funding to the packge configs
+- Add crypto donate badge to the project readme
+- Set sponsorships configuration for github
+
+### <!-- 07 -->Continuous Integrations
+
+- Change `package-ecosystem` back to `npm` on Dependabot configs
+- Update matrix `node-version` on build workflow
+
+### <!-- 08 -->Miscellaneous Tasks
+
+- Bump @heroicons/react from 2.0.12 to 2.0.18 
+- Bump next-sitemap from 4.0.1 to 4.1.3 
+- Bump wrangler from 3.0.0 to 3.1.1 
+- Bump @next/font from 13.1.6 to 13.4.7 
+- Bump next from 13.4.4 to 13.4.7 
+- Bump tailwindcss from 3.1.8 to 3.3.2 
+- Bump eslint from 8.42.0 to 8.43.0 
+- Bump next-seo from 6.0.0 to 6.1.0 
+- Bump @types/node from 20.2.5 to 20.3.1 
+- Bump @types/react-dom from 18.2.4 to 18.2.6 
+- Bump postcss from 8.4.16 to 8.4.24 
+- Bump @headlessui/react from 1.7.3 to 1.7.15 
+- Bump autoprefixer from 10.4.9 to 10.4.14 
+- Bump @types/node from 20.3.1 to 20.3.2 
+
 ## [1.0.16] - 2023-06-24
 
 ### <!-- 07 -->Continuous Integrations
