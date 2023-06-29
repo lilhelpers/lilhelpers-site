@@ -4,6 +4,8 @@
 [![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/lilhelpers/lilhelpers-site/build.yml)](https://github.com/lilhelpers/lilhelpers-site/actions/workflows/build.yml)
 [![GitHub](https://img.shields.io/github/license/lilhelpers/lilhelpers-site)](https://github.com/lilhelpers/lilhelpers-site/blob/master/LICENSE)
 [![Twitter Follow](https://img.shields.io/badge/follow-%40nekofar-1DA1F2?logo=twitter&style=flat)](https://twitter.com/nekofar)
+[![Donate](https://img.shields.io/badge/donate-nekofar.crypto-a2b9bc?logo=ko-fi&logoColor=white)](https://ud.me/nekofar.crypto)
+
 
 A website to facilitates access to information and list of helpers.
 
