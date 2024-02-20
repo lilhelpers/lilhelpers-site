@@ -13,7 +13,7 @@
     "export": "next export"
   },
   "dependencies": {
-    "@headlessui/react": "^1.7.15",
+    "@headlessui/react": "^1.7.18",
     "@heroicons/react": "^2.0.18",
     "@next/font": "^13.4.7",
     "@tailwindcss/aspect-ratio": "^0.4.2",
